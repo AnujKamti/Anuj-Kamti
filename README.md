@@ -1,5 +1,3 @@
-# Anuj.github.io
-<!DOCTYPE html>
 <html>
     <title>Answer</title>
     <style>
